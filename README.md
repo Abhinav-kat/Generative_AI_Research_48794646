@@ -2,11 +2,11 @@
 This repository contains research materials, data, and reports for the study "Using Generative AI Tools - Boon or Bane."
 
 ## Folder Structure:
-- `Literature_Review/`: Contains journal articles, books, and relevant literature.
-- `Quantitative_Analysis/`: Includes survey data, questions, scripts, and analysis reports.
-- `Qualitative_Analysis/`: Holds interview transcripts, consent forms, and qualitative analysis reports.
-- `Drafts_and_Reports/`: Drafts, conference papers, and final reports.
-- `Additional_Materials/`: Media files like photos, and other supplementary materials.
+- `Literature Review/`: Contains journal articles, books, and relevant literature.
+- `Quantitative Analysis/`: Includes survey data, questions, scripts, and analysis reports.
+- `Qualitative Analysis/`: Holds interview transcripts, consent forms, and qualitative analysis reports.
+- `Drafts and Reports/`: Drafts, conference papers, and final reports.
+- `Additional Materials/`: Media files like photos, and other supplementary materials.
 
 ## Contribution Guide:
 1. Clone the repository and create a new branch for any new tasks.
